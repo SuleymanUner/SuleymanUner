@@ -2,9 +2,9 @@
 <h4 align="center">I am a passionate Graphic Designer & Software Developer in Bursa.</h4>
 <hr>
 
-- I’m currently learning **Java, Flutter and Python
+- I’m currently learning **Java, Flutter and Python**
 
-- All of my projects are available at [https://suleymanuner.com/](https://suleymanuner.com/)
+- All of my projects are available at **[https://suleymanuner.com/](https://suleymanuner.com/)**
  
 - How to reach me **suleyman.sln20@gmail.com**
 
